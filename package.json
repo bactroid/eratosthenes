@@ -1,0 +1,30 @@
+{
+  "name": "sieve",
+  "version": "1.0.0",
+  "description": "An implementation of the sieve of Eratosthenes to find prime numbers.",
+  "main": "sieve.js",
+  "bin": {
+    "sieve": "bin/sieve.js"
+  },
+  "scripts": {
+    "test": "standard && node sieve.test.js"
+  },
+  "keywords": [],
+  "author": "Kate Haskell <fuzzcat@bactroid.net> (http://bactroid.net)",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "standard": "^10.0.2",
+    "tape": "^4.6.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bactroid/sieve.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bactroid/sieve/issues"
+  },
+  "homepage": "https://github.com/bactroid/sieve#readme"
+}
