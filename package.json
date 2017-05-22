@@ -1,5 +1,5 @@
 {
-  "name": "sieve",
+  "name": "eratosthenes",
   "version": "1.0.0",
   "description": "An implementation of the sieve of Eratosthenes to find prime numbers.",
   "main": "sieve.js",
@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bactroid/sieve.git"
+    "url": "git+https://github.com/bactroid/eratosthenes.git"
   },
   "bugs": {
-    "url": "https://github.com/bactroid/sieve/issues"
+    "url": "https://github.com/bactroid/eratosthenes/issues"
   },
-  "homepage": "https://github.com/bactroid/sieve#readme"
+  "homepage": "https://github.com/bactroid/eratosthenes#readme"
 }

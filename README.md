@@ -1,4 +1,4 @@
-# Sieve
+# eratosthenes
 
 An implementation of the [sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) to find prime numbers.
 
